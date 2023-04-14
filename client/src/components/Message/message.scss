@@ -1,0 +1,12 @@
+.fade-away {
+  transition: 2s;
+  background-color: rgba($color: #0ff, $alpha: 0.3);
+  width: inherit;
+  margin-bottom: 1.2rem;
+}
+.show {
+  opacity: 1;
+}
+.hide {
+  opacity: 0;
+}
